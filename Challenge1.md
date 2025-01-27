@@ -1,5 +1,5 @@
-## INSTRUCTIONS  
-Write a Java program to print "Hello, KnightMarkerShellers! My name is `<name>`!" to the console.
+## 📝 INSTRUCTIONS 
+Write a Java program that asks the user's name and then print "Hello, KnightMarkerShellers! My name is `<name>`!" to the console.
 
 ---
 
@@ -10,6 +10,8 @@ Sharmae
 
 **Expected Output:**  
 Hello, KnightMarkerShellers! My name is Sharmae!
+
+----
 
 #### Test Case 2  
 **Input:**  
